@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Korean&size=190&duration=3900&color=112B3C&background=EFEFEF&center=true&vCenter=true&width=1920&height=450&lines=Hi+There%2C+I'm+Taewoo)](https://git.io/typing-svg)
 
-<div style="justify-content: space-between; text-align: center;">
+<div style="justify-content: space-between; text-align: center;" align="center">
 
 <p style="width: 100%"> 
 <img alt="Java" src ="https://img.shields.io/badge/java-white.svg?&style=for-the-badge&logo=java&logoColor=E34F26"/>
@@ -28,5 +28,7 @@
 <img alt="Windows" src ="https://img.shields.io/badge/Windows11-black.svg?&style=for-the-badge&logo=Windows&logoColor=powderblue"/>
 <img alt="Linux" src ="https://img.shields.io/badge/Linux-black.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
 </p>
+
+
 
 </div>
