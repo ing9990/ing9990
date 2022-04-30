@@ -14,9 +14,6 @@
 <img alt="Jupyter" src ="https://img.shields.io/badge/Juypter-black.svg?&style=for-the-badge&logo=Jupyter&logoColor=orange"/>
 <img alt="Numpy" src ="https://img.shields.io/badge/Numpy-black.svg?&style=for-the-badge&logo=Numpy&logoColor=skyblue"/>
 <img alt="Pandas" src ="https://img.shields.io/badge/Pandas-black.svg?&style=for-the-badge&logo=Pandas&logoColor=blue"/>
-</p>
-
-<p style="justify-content: space-between; display: block">
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML-black.svg?&style=for-the-badge&logo=HTML5&logoColor=orange"/>
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-black.svg?&style=for-the-badge&logo=CSS3&logoColor=powderblue"/>
 <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JavaScript-black.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=yellow"/>
@@ -26,10 +23,6 @@
 <p>
 <img alt="github" src ="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="notion" src ="https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
-</p>
-
-
-<p style="justify-content: space-between; display: block">
 <img alt="Intellij" src ="https://img.shields.io/badge/Intellij-black.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=skyblue"/>
 <img alt="vscode" src ="https://img.shields.io/badge/Visual Studio Code-black.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=blue"/>
 <img alt="Windows" src ="https://img.shields.io/badge/Windows11-black.svg?&style=for-the-badge&logo=Windows&logoColor=powderblue"/>
