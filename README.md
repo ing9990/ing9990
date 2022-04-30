@@ -32,9 +32,6 @@
 <p style="justify-content: space-between; display: block">
 <img alt="Intellij" src ="https://img.shields.io/badge/Intellij-black.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=skyblue"/>
 <img alt="vscode" src ="https://img.shields.io/badge/Visual Studio Code-black.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=blue"/>
-</p>
-
-<p>
 <img alt="Windows" src ="https://img.shields.io/badge/Windows11-black.svg?&style=for-the-badge&logo=Windows&logoColor=powderblue"/>
 <img alt="Linux" src ="https://img.shields.io/badge/Linux-black.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
 </p>
