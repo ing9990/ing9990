@@ -1,13 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Korean&size=190&duration=4200&color=112B3C&background=EFEFEF&center=true&vCenter=true&width=1920&height=600&lines=Hi+There%2C+I'm+Taewoo)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Korean&size=190&duration=3900&color=112B3C&background=EFEFEF&center=true&vCenter=true&width=1920&height=450&lines=Hi+There%2C+I'm+Taewoo)](https://git.io/typing-svg)
 
 <div style="justify-content: space-between; text-align: center;">
 
-<p style="width: 100%">
-<img style="width: 24%; height: 80px"  alt="Java" src ="https://img.shields.io/badge/java-white.svg?&style=for-the-badge&logo=java&logoColor=E34F26"/>
-<img style="width: 24%; height: 80px"  alt="Spring boot" src ="https://img.shields.io/badge/Spring Boot-green.svg?&style=for-the-badge&logo=Springboot&logoColor=black"/>
-<img style="width: 24%; height: 80px"  alt="MySQL" src ="https://img.shields.io/badge/MySQL-blue.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/>
-<img style="width: 24%; height: 80px"  alt="PostMan" src ="https://img.shields.io/badge/PostMan-orange.svg?&style=for-the-badge&logo=PostMan&logoColor=white"/>
+<p style="width: 100%"> 
+<img alt="Java" src ="https://img.shields.io/badge/java-white.svg?&style=for-the-badge&logo=java&logoColor=E34F26"/>
+<img alt="Spring boot" src ="https://img.shields.io/badge/Spring Boot-green.svg?&style=for-the-badge&logo=Springboot&logoColor=black"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-blue.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/>
+<img alt="PostMan" src ="https://img.shields.io/badge/PostMan-orange.svg?&style=for-the-badge&logo=PostMan&logoColor=white"/>
 </p>
 
 <p style="justify-content: space-between; display: block">
