@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cardo&size=160&duration=3900&color=112B3C&background=EFEFEF&center=true&vCenter=true&width=1920&height=450&lines=Hi+There%2C+I'm+Taewoo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=160&duration=3900&color=112B3C&background=EFEFEF&center=true&vCenter=true&width=1920&height=450&lines=Hi+There%2C+I'm+Taewoo)](https://git.io/typing-svg)
 
 <div style="justify-content: space-between; text-align: center;" align="center">
 
