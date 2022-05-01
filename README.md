@@ -14,7 +14,7 @@ font-family: 'Noto Sans KR', sans-serif;
 <img alt="Spring boot" src ="https://img.shields.io/badge/Spring Boot-green.svg?&style=for-the-badge&logo=Springboot&logoColor=black"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-blue.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/>
 <img alt="PostMan" src ="https://img.shields.io/badge/PostMan-orange.svg?&style=for-the-badge&logo=PostMan&logoColor=white"/>
-<img alt="Intellij" src ="https://img.shields.io/badge/Intellij Ultimate-orange.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=skyblue"/>
+<img alt="Intellij" src ="https://img.shields.io/badge/Intellij Ultimate-purple.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=skyblue"/>
 </p>
 
 <p style="justify-content: space-between; display: block">
