@@ -32,7 +32,7 @@ font-family: 'Noto Sans KR', sans-serif;
 <img alt="notion" src ="https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
 <img alt="Intellij" src ="https://img.shields.io/badge/Intellij Ultimate-black.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=skyblue"/>
 <img alt="vscode" src ="https://img.shields.io/badge/Visual Studio Code-black.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=blue"/>
-<img alt="Windows" src ="https://img.shields.io/badge/Windows11-black.svg?&style=for-the-badge&logo=Windows&logoColor=powderblue"/>
+<img alt="Windows" src ="https://img.shields.io/badge/Windows-black.svg?&style=for-the-badge&logo=Windows&logoColor=powderblue"/>
 <img alt="Linux" src ="https://img.shields.io/badge/Linux-black.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
 </p>
 
