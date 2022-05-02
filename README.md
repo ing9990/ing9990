@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=100&duration=3900&color=112B3C&background=EFEFEF&center=true&vCenter=true&width=1920&height=350&lines=Hi+There%2C+I'm+Taewoo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=100&duration=4600&color=112B3C&background=EFEFEF&center=true&vCenter=true&width=1920&height=350&lines=Hi+There%2C+I'm+Taewoo)](https://git.io/typing-svg)
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
