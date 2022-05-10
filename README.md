@@ -1,13 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=100&duration=4600&color=112B3C&background=EFEFEF&center=true&vCenter=true&width=1920&height=350&lines=Hi+There%2C+I'm+Taewoo)](https://git.io/typing-svg)
-
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cardo:ital@1&family=Noto+Sans+KR:wght@700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap" rel="stylesheet">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&size=100&duration=4600&color=112B3C&background=EFEFEF&center=true&vCenter=true&width=1920&height=350&lines=Hi+There%2C+I'm+Taewoo)](https://git.io/typing-svg)
+
 
 <div style="justify-content: space-between; text-align: center;  
-            font-family: 'Cardo', serif;
-font-family: 'Noto Sans KR', sans-serif;
-            " align="center">
+font-family: 'Grape Nuts', cursive;" align="center">
 
 <p style="width: 100%"> 
 <img alt="Java" src ="https://img.shields.io/badge/java-white.svg?&style=for-the-badge&logo=java&logoColor=E34F26"/>
