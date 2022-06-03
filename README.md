@@ -20,11 +20,7 @@ font-family: 'Grape Nuts', cursive;" align="center">
 <img alt="HTML5" src ="https://img.shields.io/badge/HTML-black.svg?&style=for-the-badge&logo=HTML5&logoColor=orange"/>
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-black.svg?&style=for-the-badge&logo=CSS3&logoColor=powderblue"/>
 <img alt="JAVASCRIPT" src ="https://img.shields.io/badge/JavaScript-black.svg?&style=for-the-badge&logo=JAVASCRIPT&logoColor=yellow"/>
-<img alt="REACT" src ="https://img.shields.io/badge/React-black.svg?&style=for-the-badge&logo=React&logoColor=powderb"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-black.svg?&style=for-the-badge&logo=Python&logoColor=blue"/>
-<img alt="Jupyter" src ="https://img.shields.io/badge/Juypter-black.svg?&style=for-the-badge&logo=Jupyter&logoColor=orange"/>
-<img alt="Numpy" src ="https://img.shields.io/badge/Numpy-black.svg?&style=for-the-badge&logo=Numpy&logoColor=skyblue"/>
-<img alt="Pandas" src ="https://img.shields.io/badge/Pandas-black.svg?&style=for-the-badge&logo=Pandas&logoColor=blue"/>
 </p>
 
 <p>
