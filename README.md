@@ -1,7 +1,3 @@
-<div align="center">
-<div align="center">
-     <div>
-        <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif" alt="hello" width="45%">
-    </div>
-</div>
-<br/>
+<p align='center'>
+<img src='https://github-widgetbox.vercel.app/api/profile?username=ing9990&data=followers,repositories,stars,commits'>
+</p>
