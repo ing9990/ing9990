@@ -6,7 +6,7 @@
 
 :octocat: Contributions
 -  hibernate/hibernate-validator
-    - [(PR MERGED) HV-1970 Add Korean specific RRN annotation](https://github.com/hibernate/hibernate-validator/pull/1338)
+    - [(MERGED/PR) HV-1970 Add Korean specific RRN annotation](https://github.com/hibernate/hibernate-validator/pull/1338)
 
 
 
