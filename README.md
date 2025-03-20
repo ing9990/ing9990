@@ -6,7 +6,7 @@
   - [<img src="icons/github-icon.svg" width="16" height="16" alt="Merged"> HV-1970 Add Korean specific RRN annotation](https://github.com/hibernate/hibernate-validator/pull/1338)
 
 - ripple/explorer (리플코인)
-  - [<img src="icons/github-icon.svg" width="16" height="16" alt="Merged"> fix: Update-ko-kr (Unnatural Korean messages corrected) #1133](https://github.com/ripple/explorer/pull/1133)
+  - [<img src="icons/github-icon.svg" width="16" height="16" alt="Merged"> Update-ko-kr (Unnatural Korean messages corrected) #1133](https://github.com/ripple/explorer/pull/1133)
 
 :books: Recent blog posts
 - [💡 Redisson 분산락을 활용한 블록체인 요청 관리 최적화](https://www.ing9990.com/19a07a09-52aa-807b-a6dd-e6331f8533e6)
