@@ -3,7 +3,7 @@
 
 :octocat: Contributions
 - hibernate/hibernate-validator (하이버네이트)
-  - [<img src="icons/github-icon.svg" width="16" height="16" alt="Merged"> HV-1970 Add Korean specific RRN annotation #1970](https://github.com/hibernate/hibernate-validator/pull/1338)
+  - [<img src="icons/github-icon.svg" width="16" height="16" alt="Merged"> Add Korean specific RRN annotation #1970](https://github.com/hibernate/hibernate-validator/pull/1338)
 
 - ripple/explorer (리플코인)
   - [<img src="icons/github-icon.svg" width="16" height="16" alt="Merged"> Update-ko-kr Unnatural Korean messages corrected #1133](https://github.com/ripple/explorer/pull/1133)
