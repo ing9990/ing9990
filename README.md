@@ -2,11 +2,13 @@
 </div>
 
 :octocat: Contributions
-- hibernate/hibernate-validator (하이버네이트)
+- contributor to hibernate/hibernate-validator (하이버네이트)
   - [<img src="icons/github-icon.svg" width="16" height="16" alt="Merged"> Add Korean specific RRN annotation #1970](https://github.com/hibernate/hibernate-validator/pull/1338)
 
-- ripple/explorer (리플코인)
+- contributor to ripple/explorer (리플코인)
   - [<img src="icons/github-icon.svg" width="16" height="16" alt="Merged"> Update-ko-kr Unnatural Korean messages corrected #1133](https://github.com/ripple/explorer/pull/1133)
+
+- founder of [ing9990/blog-translation](https://github.com/ing9990/blog-translations) 
 
 :books: Recent blog posts
 - [💡 Redisson 분산락을 활용한 블록체인 요청 관리 최적화](https://www.ing9990.com/19a07a09-52aa-807b-a6dd-e6331f8533e6)
