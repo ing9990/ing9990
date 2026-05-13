@@ -8,9 +8,8 @@
 - contributor to ripple/explorer (리플코인)
   - [<img src="icons/github-icon.svg" width="16" height="16" alt="Merged"> Update-ko-kr Unnatural Korean messages corrected #1133](https://github.com/ripple/explorer/pull/1133)
 
-- founder of [ing9990/blog-translation](https://github.com/ing9990/blog-translations) 
 
 :books: Recent blog posts
-- [💡 Redisson 분산락을 활용한 블록체인 요청 관리 최적화](https://www.ing9990.com/19a07a09-52aa-807b-a6dd-e6331f8533e6)
-- [⛵ Learn Kubernetes Basics](https://www.ing9990.com/contents/tech/kubernetes)
-- [🧹 도메인 리팩토링 (근데 이제 VO와 클린코드를 곁들인..)](https://www.ing9990.com/51c1b8f2-2cad-42e8-845f-604841f31d60)
+- 👉 [가상 면접 사례로 배우는 대규모 시스템 설계 - 개략적인 규모추정](http://localhost:3010/posts/back-of-the-envelope-estimation)
+- ⛵ [Kubernetes Cheatsheet](http://blog.localhost:3010/posts/kubernetes-cheatsheet)
+- 🧹 [멀티 인스턴스 환경에서 원자적인 재고 선점](http://blog.localhost:3010/posts/mini-coupang-redis-lua-stock-reserve)
