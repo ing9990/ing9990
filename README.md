@@ -10,6 +10,7 @@
 
 
 :books: Recent blog posts
+- 🕹️ [넷플릭스: 자율과 책임](https://deep.ing9990.com/posts/freedom-and-responsibility-culture)
 - 👉 [가상 면접 사례로 배우는 대규모 시스템 설계 - 개략적인 규모추정](http://localhost:3010/posts/back-of-the-envelope-estimation)
 - ⛵ [Kubernetes Cheatsheet](http://blog.localhost:3010/posts/kubernetes-cheatsheet)
 - 🧹 [멀티 인스턴스 환경에서 원자적인 재고 선점](http://blog.localhost:3010/posts/mini-coupang-redis-lua-stock-reserve)
